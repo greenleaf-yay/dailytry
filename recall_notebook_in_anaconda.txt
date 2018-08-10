@@ -1,0 +1,11 @@
+cd anaconda3
+
+source bin/activate ~/anaconda3/
+
+which ipython
+
+which python
+
+ipython
+
+ipython notebook
